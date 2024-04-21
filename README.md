@@ -6,7 +6,7 @@
     <h2> Object Oriented Programming (March 2024) </h2>
 </div>
 
-## Table of Contents
+## Table of Contents (ToC)
 
 - [Unit 1: An Introduction to Python Programming and the OO Programming Paradigm
 ](Unit01/)
