@@ -10,6 +10,13 @@ Test your code by creating two Kangaroo objects, assigning them to variables nam
 View BadKangaroo.py. It contains a solution to the previous problem with one big, nasty bug. Find and fix the bug.
 """
 
+# The bug that's fixed is in the 'Kangaroo' class initialization. It is the "mutable default argument" bug. 
+# The fix ensures that each Kangaroo object has its own independent list for pouch_contents, avoiding unintended sharing of the list between 
+# different instances of the class.
+# In the fixed code, the default value of contents is set to None, and if no contents argument is provided, a new list is created inside the method. 
+# This ensures that each Kangaroo instance has its own separate list for pouch_contents.
+
+
 from __future__ import print_function, division
 
 class Kangaroo:
