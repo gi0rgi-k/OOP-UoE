@@ -1,5 +1,5 @@
 """
-Module 10 Practice: Creating Instance Methods
+Tutorial Lab 1: Instance Methods
 """
 
 
