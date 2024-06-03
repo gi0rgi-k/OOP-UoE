@@ -1,3 +1,3 @@
-You can find ePortfolio activities in this file: 'Collaborative_Discussion_2_InitialPost.pdf'
+You can find the Collaborative Discussion Initial Post in this file: 'Collaborative_Discussion_2_InitialPost.pdf'
 
 
