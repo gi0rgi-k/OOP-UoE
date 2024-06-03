@@ -8,9 +8,8 @@
 
 ## Table of Contents (ToC)
 
-- [Unit 1: An Introduction to Python Programming and the OO Programming Paradigm
-](Unit01/)
-    - 123 
+- [Unit 1: An Introduction to Python Programming and the OO Programming Paradigm](Unit01/)
+- [Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python](Unit02/)
 - [Project Overview](Unit02/)
 - [Project Overview](Unit03/)
 - [Project Overview](Unit04/)
