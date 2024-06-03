@@ -1,7 +1,6 @@
-## Description
+## Feedback from the Professor
 
 ### Grade: Merit
-
 
 I've thoroughly reviewed your design document for the software supporting a self-driving car, and I appreciate the effort you've put into your research and presentation. Here's some constructive  feedback to further enhance your work:
 
